@@ -8,6 +8,8 @@ In this example we will know how to use AI in real life using Computer Vision
 
 
 2- go to File > open notebook
+![image](https://user-images.githubusercontent.com/81514070/112820436-46a66d80-908e-11eb-9ea2-4a828131c22a.png)
+
 
 3- go to GitHub and enter this github link https://github.com/hassanTV/introduction_to_artificial_intelligence
 
