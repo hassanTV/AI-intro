@@ -4,6 +4,7 @@ In this example we will know how to use AI in real life using Computer Vision
 *Get started:
 
 1- go to google colab -> https://colab.research.google.com/
+![image](https://user-images.githubusercontent.com/81514070/112820325-2bd3f900-908e-11eb-8ba0-1674ee50715c.png)
 
 
 2- go to File > open notebook
